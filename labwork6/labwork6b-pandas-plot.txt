@@ -1,0 +1,11 @@
+- use pandas
+    + load scores.csv into a data frame
+    + plot student scores of math, python, db
+    using scattered plot
+        + save to scattered.png
+    + plot histogram of each course's marks
+        + separately on subplots
+        (3 subplots)
+        + save to histo.png
+    + plot a single box plot for math, python, db
+        + save to box.png

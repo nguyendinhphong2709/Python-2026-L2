@@ -1,0 +1,8 @@
+use matplotlib
+    - plot
+        y = 2x + sin^2(x) + 3
+        in the range from [-5, 5]
+        grid
+        title "hello, po!"
+        x, y labels correspondingly
+    - save to po.pdf
